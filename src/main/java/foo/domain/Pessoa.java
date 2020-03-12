@@ -23,4 +23,7 @@ public class Pessoa {
 
     @Past
     private LocalDate dataNascimento;
+
+    private LocalDate dataFormatura;
+
 }
